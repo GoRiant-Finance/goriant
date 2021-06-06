@@ -1,21 +1,42 @@
-# goriant
+# Goriant
 
-### goriant is Solana hackathon project which is Auto-compound interest for Staker
+### Goriant is Solana Hackathon project which is Auto-compound profit for Staker
 
-### Slide presentation
+## Video introduction
 
-slide/goriant_presentation.pdf
+[Goriant Website Introduction](https://www.youtube.com/watch?v=t8e4OWXLDQw&ab_channel=GoRiant)
 
-### Video introduction
+## Slide presentation
 
-video_introduction/Introduct_website_goriant.mp4
+[Goriant Presentation](slide/goriant_presentation.pdf)
 
-### Source Solana Blockchain
+## Tech stack
 
+- Solana Blockchain Rust
+
+    - rustc 1.51.0
+    - anchor-cli 0.6.0    
+    - solana-cli 1.6.6
+    - spl-token-cli 2.0.10
+    
+- DApp
+  
+    - React 16.9.0
+    - Typescript 4.0.0
+    - @solana/web3.js 1.15.0 
+    - @project-serum/sol-wallet-adapter 0.2.0
+    - antd 4.5.0
+    - craco-less 1.17.0
+    
+
+### Source Solana Blockchain Rust
+
+```
 https://github.com/GoRiant-Finance/goriant-rs
+```
 
+### Source Goriant DApp
 
-### Source Dapp
-
+```
 https://github.com/GoRiant-Finance/goriant-dapp
-
+```
