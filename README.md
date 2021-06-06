@@ -1,15 +1,17 @@
 <!-- PROJECT LOGO -->
 # [Goriant](https://goriant.com)
-dapp: https://goriant.com
+
 <br />
 <p align="center">
   <a href="https://goriant.com">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80">
   </a>
+  
+    <h2 align="center">GoRiant</h2>
+    <h3 align="center">Goriant is Solana Hackathon project which is Auto-compound profit for Staker </h2>
+    <a href="https://goriant.com">dapp</a>
+
 </p>
-
-
-### Goriant is Solana Hackathon project which is Auto-compound profit for Staker
 
 ## Video introduction
 
