@@ -27,6 +27,8 @@ dapp: https://goriant.com
     - anchor-cli 0.6.0    
     - solana-cli 1.6.6
     - spl-token-cli 2.0.10
+    - mocha
+    - chaijs
     
 - DApp
   
