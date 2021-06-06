@@ -36,6 +36,14 @@ dapp: https://goriant.com
     - @project-serum/sol-wallet-adapter 0.2.0
     - antd 4.5.0
     - craco-less 1.17.0
+
+- CI/CD
+
+    - circleci : run pipeline CI/CD on Production branch for Goriant Dapp
+
+- Dapp hosting
+
+    - firebase
     
 
 ### Source Solana Blockchain Rust
