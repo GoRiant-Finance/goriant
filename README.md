@@ -1,4 +1,4 @@
-# [Pancake Bunny](https://goriant.com)
+# [Goriant](https://goriant.com)
 dapp: https://goriant.com
 
 ### Goriant is Solana Hackathon project which is Auto-compound profit for Staker
