@@ -9,7 +9,7 @@
   <p align="center">
     <h2 align="center">GoRiant</h2>
     <h3 align="center">Goriant is Solana Hackathon project which is Auto-compound profit for Staker </h2>
-    <a href="https://goriant.com">dapp</a>
+    <h3 lign="center" href="https://goriant.com">dapp</h3>
   </p>
 
 </p>
