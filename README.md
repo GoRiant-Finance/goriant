@@ -2,10 +2,12 @@
 <br />
 <p align="center">
   <a href="https://goriant.com">
-    <img src="images/logo.png" alt="Logo" width="80">
+    <img src="images/logo.png" alt="Logo" width="100">
   </a>
   <h3 align="center">GoRiant</h3>
-  <a align="center">Goriant is Solana Hackathon project which is Auto-compound profit for Staker </a>
+  <p align="center">
+    <a align="center">Goriant is Solana Hackathon project which is Auto-compound profit for Staker </a>
+  </p>
 </p>
 
 ## Video introduction
