@@ -45,7 +45,8 @@ dapp: https://goriant.com
 
 - Dapp hosting
 
-    - firebase
+    - Firebase
+    - Arweave : https://arweave.net/pVMboKoTCsAFvPsbkxs5X97gJ6-VLgY56OAkHSWRGJY
     
 
 ### Source Solana Blockchain Rust
